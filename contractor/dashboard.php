@@ -38,12 +38,12 @@ include_once("templates/header.php");?>
                                         </ul>
                                     </div>
                                     <div class="marketwatch" align="center">
-                										<button type="button" class="btn btn-primary btn-lg"><a href="http://www.marketwatch.com/game/yudi-stock-competition
-                " target="_blank" style='color: white'>Go to MarketWatch</a></button>
+                										<button type="button" class="btn btn-primary btn-lg" style="margin-bottom: 15px"><a href="http://www.marketwatch.com/game/yudi-stock-competition
+                " target="_blank" style='color: white;'>Go to MarketWatch</a></button>
 
-
+<!-- 
                         <button type="button" class="btn btn-primary btn-lg"><a href="http://www.marketwatch.com/game/yudi-stock-competition
-                " target="_blank" style='color: white'>Go to MarketWatch</a></button>         
+                " target="_blank" style='color: white'>Go to MarketWatch</a></button>          -->
 
                 <button type="button" class="btn btn-primary btn-lg"><a href="
 https://docs.google.com/spreadsheets/d/1piSihMfBRyU5_cSrXENGnccVHplId6ohHI4ujhmWmfY/edit#gid=0
